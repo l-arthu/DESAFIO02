@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Kavoon&display=swap');
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.dog {
+    font-family: 'Kavoon', cursive;
+    font-size: 15px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.conteudo h1 {
+    max-width: 440px;
+    line-height: 47px;
+}
+
+.input {
+    background-color: rgb(243, 154, 121);
+    padding: 17px;
+    width: 270px;
+    border-radius: 50px;
+    border: 0;
+    font-family: 'Kavoon', cursive;
+    color: white;
+    font-size: 30px;
+    gap: 20px;
+}
+
+.input button:hover {
+    background-color: rgb(131, 63, 15);
+}
