@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Kavoon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
 
 .container {
     display: flex;
@@ -7,7 +7,7 @@
     align-items: center;
 }
 
-.dog {
+.conte {
     font-family: 'Kavoon', cursive;
     font-size: 15px;
     font-weight: 400;
@@ -17,12 +17,12 @@
     text-align: center;
 }
 
-.conteudo h1 {
+.text {
     max-width: 440px;
     line-height: 47px;
 }
 
-.input {
+.butto {
     background-color: rgb(243, 154, 121);
     padding: 17px;
     width: 270px;
@@ -34,6 +34,6 @@
     gap: 20px;
 }
 
-.input button:hover {
+.conte button:hover {
     background-color: rgb(131, 63, 15);
 }
